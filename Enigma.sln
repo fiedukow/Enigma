@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Enigma", "Enigma\Enigma.vcxproj", "{A9C130C2-61D6-4AC2-AAAA-2116794B69F8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EnigmaCracker", "Decoder\Decoder.vcxproj", "{D8947818-0ABA-47DF-966A-BA0DC0F48FCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C130C2-61D6-4AC2-AAAA-2116794B69F8}.Debug|x64.ActiveCfg = Debug|x64
+		{A9C130C2-61D6-4AC2-AAAA-2116794B69F8}.Debug|x64.Build.0 = Debug|x64
+		{A9C130C2-61D6-4AC2-AAAA-2116794B69F8}.Debug|x86.ActiveCfg = Debug|Win32
+		{A9C130C2-61D6-4AC2-AAAA-2116794B69F8}.Debug|x86.Build.0 = Debug|Win32
+		{A9C130C2-61D6-4AC2-AAAA-2116794B69F8}.Release|x64.ActiveCfg = Release|x64
+		{A9C130C2-61D6-4AC2-AAAA-2116794B69F8}.Release|x64.Build.0 = Release|x64
+		{A9C130C2-61D6-4AC2-AAAA-2116794B69F8}.Release|x86.ActiveCfg = Release|Win32
+		{A9C130C2-61D6-4AC2-AAAA-2116794B69F8}.Release|x86.Build.0 = Release|Win32
+		{D8947818-0ABA-47DF-966A-BA0DC0F48FCB}.Debug|x64.ActiveCfg = Debug|x64
+		{D8947818-0ABA-47DF-966A-BA0DC0F48FCB}.Debug|x64.Build.0 = Debug|x64
+		{D8947818-0ABA-47DF-966A-BA0DC0F48FCB}.Debug|x86.ActiveCfg = Debug|Win32
+		{D8947818-0ABA-47DF-966A-BA0DC0F48FCB}.Debug|x86.Build.0 = Debug|Win32
+		{D8947818-0ABA-47DF-966A-BA0DC0F48FCB}.Release|x64.ActiveCfg = Release|x64
+		{D8947818-0ABA-47DF-966A-BA0DC0F48FCB}.Release|x64.Build.0 = Release|x64
+		{D8947818-0ABA-47DF-966A-BA0DC0F48FCB}.Release|x86.ActiveCfg = Release|Win32
+		{D8947818-0ABA-47DF-966A-BA0DC0F48FCB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1972D0E8-4229-4957-AA91-545029E099EB}
+	EndGlobalSection
+EndGlobal
